@@ -1,6 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo version 
+
+Open [https://kind-bassi-6f2e46.netlify.app](https://kind-bassi-6f2e46.netlify.app) to view it in the browser.
 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
